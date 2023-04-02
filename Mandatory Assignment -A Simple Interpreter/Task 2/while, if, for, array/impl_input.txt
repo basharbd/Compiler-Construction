@@ -1,0 +1,15 @@
+/* Example program for the imperative language impl */
+a=4;
+n=5;
+result=1;
+
+/*
+for(i=2..5){
+result=result*5;
+a=a+(-1);
+}
+*/
+
+a[1] = 17;
+output a[1];
+
