@@ -1,0 +1,5 @@
+class
+antlr simpleCalc.g4
+javac simpleCalc*.java
+grun simpleCalc start input.txt
+grun simpleCalc start input.txt -gui
